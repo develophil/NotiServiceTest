@@ -18,6 +18,7 @@ public class MainActivity extends ActionBarActivity {
 
         // 내용이 바뀌었습니다.
         // 다시 추가하였지요 ㅎㅎㅎㅎ
+        // one more
     }
 
     @Override
