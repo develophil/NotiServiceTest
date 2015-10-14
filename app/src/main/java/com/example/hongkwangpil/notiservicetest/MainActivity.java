@@ -17,6 +17,7 @@ public class MainActivity extends ActionBarActivity {
         Toast.makeText(getApplicationContext(),"test",Toast.LENGTH_SHORT).show();
 
         // 내용이 바뀌었습니다.
+        // 다시 추가하였지요 ㅎㅎㅎㅎ
     }
 
     @Override
